@@ -1,0 +1,24 @@
+{
+  "name": "hwhap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syl-gauthier/hwhap.git"
+  },
+  "author": "syl-gauthier",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Syl-gauthier/hwhap/issues"
+  },
+  "homepage": "https://github.com/Syl-gauthier/hwhap#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.3"
+  }
+}
